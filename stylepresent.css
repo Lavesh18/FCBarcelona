@@ -1,0 +1,380 @@
+body, html {
+    height: 100%;
+  }
+  
+.bg-image1 {
+    /* The image used */
+    background-image: url("bground.jpg");
+  
+    /* Add the blur effect */
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 230%;
+    background-blend-mode: lighten;
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;;
+  }
+
+  .card1 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 37%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card2 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 37%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card3 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card4 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 37%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card5 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 37%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card6 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 80%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card7 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 80%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card8 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card9 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 80%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card10 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 80%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  } 
+  .card11 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 124%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card12 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 124%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card13 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 124%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+  }
+  .card14 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 124%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card15 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 124%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card16 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 168%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card17 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 168%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card18 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 168%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card19 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 168%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card20 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 168%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card21 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 212%;
+    left: 31%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card22 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 212%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  .card23 {
+    
+    background-color: rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 212%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+    
+    
+  }
+  

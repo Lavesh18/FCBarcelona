@@ -1,0 +1,157 @@
+body, html {
+    height: 100%;
+  }
+  
+ 
+  
+  .bg-image9 {
+    /* The image used */
+    background-image: url("bground.jpg");
+  
+    /* Add the blur effect */
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 400%;
+    
+    
+    background-blend-mode: lighten;
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;;
+  }
+  .l1{
+    background-color:rgb(233, 225, 225);
+    
+    
+    position: absolute;
+    
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l2{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l3{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 145%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l4{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 180%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l5{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 215%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l6{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 250%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l7{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 285%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l8{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 320%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l9{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 355%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .l10{
+    background-color:rgb(0, 0, 0);
+    
+    
+    position: absolute;
+    
+    top: 390%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }

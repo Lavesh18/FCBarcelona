@@ -1,0 +1,371 @@
+
+body, html {
+    height: 100%;
+  }
+  
+ 
+  
+  .bg-image {
+    /* The image used */
+    background-image: url("bground.jpg");
+  
+    /* Add the blur effect */
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 190%;
+    background-blend-mode: lighten;
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;;
+  }
+  .bg-image1 {
+    /* The image used */
+    background-image: url("bground.jpg");
+  
+    /* Add the blur effect */
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 190%;
+    background-blend-mode: lighten;
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;;
+  }
+ 
+  .bg-image3 {
+    /* The image used */
+    background-image: url("bground.jpg");
+  
+    /* Add the blur effect */
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 170%;
+    background-blend-mode: lighten;
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;;
+  }
+  
+  .bg-image6 {
+    /* The image used */
+    background-image: url("bground.jpg");
+  
+    /* Add the blur effect */
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 110%;
+    background-blend-mode: lighten;
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;;
+  }
+  
+  
+  /* Position text in the middle of the page/image */
+  .mask {
+    
+    color: white;
+    
+    
+    position: absolute;
+    
+    top: 32%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    
+  }
+  .mask1 {
+    
+    color: white;
+    
+    
+    position: absolute;
+    
+    top: 32%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    
+  }
+  .mask2 {
+    
+    color: white;
+    
+    
+    position: absolute;
+    
+    top: 32%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    
+  }
+  
+  .mask3 {
+    
+    color: white;
+    
+    
+    position: absolute;
+    
+    top: 95%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    
+  }
+  .mask4 {
+    
+    color: white;
+    
+    
+    position: absolute;
+    
+    top: 95%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    
+  }
+  .mask5 {
+    
+    color: white;
+    
+    
+    position: absolute;
+    
+    top: 95%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    
+  }
+
+  .mask6 {
+    
+    color: white;
+    
+    
+    position: absolute;
+    
+    top: 155%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    
+  }
+  .mask7 {
+    
+    color: white;
+    
+    
+    position: absolute;
+    
+    top: 155%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    
+  }
+  footer {
+    position: absolute;
+    height: 160px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    
+  }
+ 
+  
+ 
+  .g1{
+    background-color:rgb(233, 225, 225);
+    
+    
+    position: absolute;
+    
+    top: 65%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .g2{
+    background-color:rgb(233, 225, 225);
+    
+    
+    position: absolute;
+    
+    top: 65%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .bg-image7 {
+    /* The image used */
+    background-image: url("bground.jpg");
+   
+    /* Add the blur effect */
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 230%;
+    background-blend-mode: lighten;
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;;
+  }
+  .cardtrop1{
+  background-color: white;
+    
+    
+    position: absolute;
+    
+    top: 50%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+  }
+  .cardtrop2{
+    background-color: white;
+      
+      
+      position: absolute;
+      
+      top: 50%;
+      left: 49.75%;
+      transform: translate(-50%, -50%);
+      z-index: 2;
+      width: 80%;
+      padding: 20px;
+    }
+    .cardtrop3{
+      background-color: white;
+        
+        
+        position: absolute;
+        
+        top: 50%;
+        left: 83%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+        width: 80%;
+        padding: 20px;
+      }
+      .cardtrop4{
+        background-color: white;
+          
+          
+          position: absolute;
+          
+          top: 120%;
+          left: 17%;
+          transform: translate(-50%, -50%);
+          z-index: 2;
+          width: 80%;
+          padding: 20px;
+        }
+        .cardtrop5{
+          background-color: white;
+            
+            
+            position: absolute;
+            
+            top: 120%;
+            left: 49.75%;
+            transform: translate(-50%, -50%);
+            z-index: 2;
+            width: 80%;
+            padding: 20px;
+          }
+          .cardtrop6{
+            background-color: white;
+              
+              
+              position: absolute;
+              
+              top: 120%;
+              left: 83%;
+              transform: translate(-50%, -50%);
+              z-index: 2;
+              width: 80%;
+              padding: 20px;
+            }
+            .cardtrop7{
+              background-color: white;
+                
+                
+                position: absolute;
+                
+                top: 190%;
+                left: 31%;
+                transform: translate(-50%, -50%);
+                z-index: 2;
+                width: 80%;
+                padding: 20px;
+              }
+              .cardtrop8{
+                background-color: white;
+                  
+                  
+                  position: absolute;
+                  
+                  top: 190%;
+                  left: 65.5%;
+                  transform: translate(-50%, -50%);
+                  z-index: 2;
+                  width: 80%;
+                  padding: 20px;
+                }
+                

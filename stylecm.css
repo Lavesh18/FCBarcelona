@@ -1,0 +1,87 @@
+body, html {
+    height: 100%;
+  }
+.bg-image2 {
+    /* The image used */
+    background-image: url("bground.jpg");
+  
+    /* Add the blur effect */
+    filter: blur(20px);
+    -webkit-filter: blur(20px);
+  
+    /* Full height */
+    height: 220%;
+    background-blend-mode: lighten;
+
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;;
+  }
+  .cm1{
+    background-color:rgb(233, 225, 225);
+    
+    
+    position: absolute;
+    
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .cm2{
+    background-color:rgb(233, 225, 225);
+    
+    
+    position: absolute;
+    
+    top: 50%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .cm3{
+    background-color:rgb(233, 225, 225);
+    
+    
+    position: absolute;
+    
+    top: 120%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .cm4{
+    background-color:rgb(233, 225, 225);
+    
+    
+    position: absolute;
+    
+    top: 120%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
+  .cm5{
+    background-color:rgb(233, 225, 225);
+    
+    
+    position: absolute;
+    
+    top: 190%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 50%;
+    padding: 20px;
+  }
